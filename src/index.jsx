@@ -10,7 +10,7 @@ root.render(
     <Header />
     <div className='container'>
     <App />
-
+    
     </div>
   </React.StrictMode>
 );
